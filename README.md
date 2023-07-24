@@ -1,5 +1,5 @@
 # Mini-Project-Evermos
-For Final Project Purposes of Evermos Internship
+For Final Project Purposes of Evermos 
 
 routing seperti collection berikut
 https://github.com/Fajar-Islami/go-example-cruid/blob/master/Rakamin%20Evermos
